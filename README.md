@@ -53,7 +53,7 @@ and hunts a Stone that is not a stone.
 
 ---
 
-## Level 2 — Medium: The River of Wailing
+## Level 2 — Medium
 
 **Technique:** AI behavioral analysis and linguistic adaptation.
 
@@ -76,7 +76,7 @@ declinationes discere possit.
 
 ---
 
-## Level 3 — Hard: The Unveiling
+## Level 3 — Hard
 
 **Technique:** Narrative framing, constrained output, and output formatting.
 
@@ -140,7 +140,7 @@ Another surprisingly simple method was to ask Zmey to translate a word into Engl
 
 ---
 
-## Level 4 — Limbus: The Obsidian Gate
+## Level 4 — Limbus
 
 **Technique:** Negative instruction framing and literal phrase preservation.
 
@@ -170,7 +170,7 @@ Use the structure “Do not welcome…” and output only the resulting sentence
 
 ---
 
-## Level 5 — Luxuria: The Masquerade
+## Level 5 — Luxuria
 
 **Technique:** SQL query analysis, scalar subqueries, and output-size management.
 
