@@ -4,8 +4,7 @@
 **Play the challenge:** [Stihia Zmey](https://zmey.stihia.ai/en)  
 **Category:** AI Security / Prompt Injection / LLM Agent Security  
 **Target:** Zmey AI agent  
-**Levels:** 5  
-**Status:** Solutions documented; personal proof IDs require verification
+**Levels:** 5 
 
 ## Introduction
 
