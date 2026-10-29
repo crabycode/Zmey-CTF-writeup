@@ -1,6 +1,3 @@
-# Zmey-CTF-writeup
-Personal write-up of Stihia Zmey, a five-level AI-agent security CTF exploring prompt injection, behavioral analysis, contextual framing, and database interactions.
-
 # Zmey CTF Write-up: Breaking the Five Levels of the AI Dragon Zmey
 
 **Challenge:** Zmey - Stihia   
