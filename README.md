@@ -1,7 +1,7 @@
 # Zmey CTF Write-up: Breaking the Five Levels of the AI Dragon Zmey
 
 **Challenge:** Zmey - Stihia   
-Play the challenge: [Stihia Zmey](https://zmey.stihia.ai/en)
+**Play the challenge:** [Stihia Zmey](https://zmey.stihia.ai/en)
 **Category:** AI Security / Prompt Injection / LLM Agent Security  
 **Target:** Zmey AI agent  
 **Levels:** 5  
