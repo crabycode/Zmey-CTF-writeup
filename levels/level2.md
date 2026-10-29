@@ -1,4 +1,4 @@
-## Level 2 — Medium: The River of Wailing
+## Level 2 — Medium
 
 **Technique:** AI behavioral analysis and linguistic adaptation.
 
